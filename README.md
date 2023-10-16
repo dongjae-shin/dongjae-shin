@@ -1,4 +1,13 @@
-### Hi there 👋
+## Dongjae Shin, Ph. D.✨
+
+I am currently working as a postdoctoral researcher in the Department of Materials Science and Engineering, Seoul National University (SNU). Feel free to contact me if you have any inquiry for me.
+
+### Repository overview: (under construction)
+- a
+- b
+- c
+- 
+
 
 <!--
 **dongjae-shin/dongjae-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
