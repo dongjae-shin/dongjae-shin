@@ -12,9 +12,9 @@ Atomistic simulations (e.g., density functional theory, DFT) for computational c
 - [**Ab_initio_thermo_HgOx**](https://github.com/dongjae-shin/Ab_initio_thermo_HgOx): Ab-initio thermodynamic approach for the stability of SCR catalysts with different VOx structures
 - [**BO-literature**](https://github.com/dongjae-shin/BO-literature): Bayesian optimization of a heterogeneous catalyst using literature data (private $\because$ on-going work)
 ### Toy Codes🏫
-- [**Bayesian_opt_tutorial**](https://github.com/dongjae-shin/Bayesian_opt_tutorial): from-scratch tutorials of BO (for study)
+- [**Bayesian_opt_tutorial**](https://github.com/dongjae-shin/Bayesian_opt_tutorial): From-scratch tutorials of BO (for study)
 - [**MDUI**](https://github.com/dongjae-shin/MDUI): From-scratch molecular dynamics (MD) code (C language) and graphic user interface (GUI) (Java) for study
-- [**time_propagator**](https://github.com/dongjae-shin/time_propagator): code to quantum mechanically simulate the time propagation of a wavefunction under a defined potential (scientific integrity has not been validated).
+- [**time_propagator**](https://github.com/dongjae-shin/time_propagator): Code to quantum mechanically simulate the time propagation of a wavefunction under a defined potential (scientific integrity has not been validated).
 - [**Atomistic_GA**](https://github.com/dongjae-shin/Atomistic_GA): ASE-based code to globally optimize the atomic configuration of a bulk bimetallic material.
 
 
