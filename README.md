@@ -4,7 +4,7 @@ I am currently working as a postdoctoral researcher in the Department of Materia
 ## Interests🌹
 Atomistic simulations (e.g., density functional theory, DFT) for computational catalysis combined with artificial intelligence (AI)
 
-## Repository overview (under construction)
+## Repository overview
 ### Codes for Research👨‍🔬
 - [**GA4Qsys**](https://github.com/dongjae-shin/GA4Qsys): Genetic algorithm (GA) code for structural optimization of supported nanoparticle model in a queueing system
 - [**SegrDNN**](https://github.com/dongjae-shin/SegrDNN): Code for hyper-parameter tuning of DNN model for surface segregation energy
