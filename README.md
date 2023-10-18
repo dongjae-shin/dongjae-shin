@@ -16,7 +16,7 @@ Atomistic simulations (e.g., density functional theory, DFT) for computational c
 - [**MDUI**](https://github.com/dongjae-shin/MDUI): From-scratch molecular dynamics (MD) code (C language) and graphic user interface (GUI) (Java) for study
 - [**time_propagator**](https://github.com/dongjae-shin/time_propagator): Code to quantum mechanically simulate the time propagation of a wavefunction under a defined potential (scientific integrity has not been validated).
 - [**Atomistic_GA**](https://github.com/dongjae-shin/Atomistic_GA): ASE-based code to globally optimize the atomic configuration of a bulk bimetallic material.
-
+- [**pde_by_FDM**](https://github.com/dongjae-shin/pde_by_FDM): C-based solution of an elliptic partial differential equation (PDE) by finite difference method (FDM)
 
 <!--
 **dongjae-shin/dongjae-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
