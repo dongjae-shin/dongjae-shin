@@ -1,7 +1,7 @@
 # Dongjae Shin, Ph. D.👨‍🎓
 I am currently working as a postdoctoral scholar in SUNCAT Center for Interface Science and Catalysis at SLAC National Accelerator Laboratory & Stanford University. Feel free to contact me if you have any inquiry for me.
 
-## Interests🌹
+## Interests
 * Atomistic simulations (e.g., density functional theory, DFT) for computational catalysis combined with artificial intelligence (AI)
 * Navigation of experiments aided by AI to build machine learning model or optimize target property of catalytic materials
 
