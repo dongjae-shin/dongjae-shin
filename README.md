@@ -7,7 +7,7 @@ I am currently working as a postdoctoral scholar in SUNCAT Center for Interface 
 
 ## Repository Overview
 ### Codes for Research (@SUNCAT, SLAC&Stanford)👨‍🔬
-- [**PyCatRobin**](https://github.com/dongjae-shin/PyCatRobin): (on-going)
+- [**PyCatRobin**](https://github.com/dongjae-shin/PyCatRobin): **Py**thon module to analyze time-on-stream **Cat**alyst testing results from Round **Robin** test (on-going) (See it from [**SUNCAT**](https://github.com/SUNCAT-Center/PyCatRobin))
 - [**CatDegUS**](https://github.com/dongjae-shin/CatDegUS): Python module for **Cat**alysts' **Deg**radation navigated by **U**ncertainty **S**ampling (See it from [**SUNCAT**](https://github.com/SUNCAT-Center/CatDegUS))
 ### Codes for Research (@CCEL, SNU)👨‍🔬
 - [**BOEx**]()
